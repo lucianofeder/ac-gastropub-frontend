@@ -37,6 +37,48 @@ export const db = [
     ]
   },
   {
+    "section": "cervejas",
+    "products": [
+      {
+        "name": "heineken",
+        "price": "8.00"
+      },
+      {
+        "name": "beck",
+        "price": "8.00"
+      },
+      {
+        "name": "corona",
+        "price": "9.00"
+      },
+      {
+        "name": "budweiser",
+        "price": "7.00"
+      },
+      {
+        "name": "stella",
+        "price": "7.00"
+      },
+      {
+        "name": "bohemia",
+        "price": "6.00"
+      },
+      {
+        "name": "tijuca",
+        "price": "7.00"
+      },
+      {
+        "name": "amstel lata",
+        "price": "4.00"
+      },
+      {
+        "name": "devassa lata",
+        "price": "4.00"
+      },
+      
+    ]
+  },
+  {
     "section": "drinks",
     "products": [
       {
